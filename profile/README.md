@@ -118,6 +118,8 @@
 |제목|링크|
 |------|---|
 |오디오 북 API 미작동|[링크](https://github.com/Nong-Mo/frontend/issues/77)|
+|파일 Read가 되지 않음|[링크](https://studyiwthme.tistory.com/219)|
+|용지 윤곽선 검출 시도하기|[링크](https://www.notion.so/OpenCV-9a13f3a195c34ab8909e2b62d3b7f60d?pvs=4#4b9f84f595a34729b96664965750ce95)|
 
 
 &nbsp;
